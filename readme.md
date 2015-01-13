@@ -2,7 +2,7 @@
 
 ![screenshot](screenshot.png)
 
-An example project showing how an Orlans Silo can be hosted on a web role. This allows smaller deployments of Orleans, as less VMs are required to deploy the minimum required infrastructure for an application (2 VMs instead of 4).
+An example project showing how an Orleans Silo can be hosted on a Web Role. This allows smaller deployments of Orleans, as less VMs are required to deploy the minimum required infrastructure for an application (2 VMs instead of 4).
 
 ## How this works
 
